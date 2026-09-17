@@ -23,8 +23,6 @@ Banyak pengelola Bank Sampah di tingkat RT/RW masih mengandalkan pencatatan manu
 
 ## ✨ Fitur Inti *(Core Features)*
 
-Proyek ini dirancang untuk diselesaikan dalam kurun waktu 12 kali pertemuan dengan fitur utama sebagai berikut:
-
 - 🔐 **Autentikasi & Hak Akses:** Sistem *login* multi-role terpisah untuk Admin dan Nasabah.
 - 🏷️ **Manajemen Kategori Sampah (CRUD):** Pengaturan jenis sampah (Plastik, Kertas, Logam, dll) beserta harga per kg.
 - 👤 **Manajemen Data Nasabah (CRUD):** Pendaftaran dan pengelolaan data anggota/warga.
