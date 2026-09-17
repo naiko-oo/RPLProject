@@ -14,8 +14,10 @@ Banyak pengelola Bank Sampah di tingkat RT/RW masih mengandalkan pencatatan manu
 
 ## 🎯 Target Pengguna & Manfaat
 
-🧑‍💼 **Pengurus (Admin)** =  Pengurus RT/RW atau pengelola bank sampah setempat. | Mempercepat input setoran, meminimalisir kesalahan hitung, dan menyusun laporan bulanan secara otomatis. 
-👥 **Nasabah (Warga)** = Warga lingkungan RT/RW yang memilah sampah rumah tangga. | Transparansi saldo tabungan dan riwayat setoran yang dapat diakses secara *real-time*. 
+| Peran | Profil Pengguna | Manfaat Utama |
+| :--- | :--- | :--- |
+| 🧑‍💼 **Pengurus (Admin)** | Pengurus RT/RW atau pengelola bank sampah setempat. | Mempercepat input setoran, meminimalisir kesalahan hitung, dan menyusun laporan bulanan secara otomatis. |
+| 👥 **Nasabah (Warga)** | Warga lingkungan RT/RW yang memilah sampah rumah tangga. | Transparansi saldo tabungan dan riwayat setoran yang dapat diakses secara *real-time*. |
 
 ---
 
